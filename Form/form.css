@@ -1,0 +1,8 @@
+fieldset{
+    width: 400px;
+    height: 600px;
+    border: 10px solid;
+    background-color: #fefecc;
+    box-shadow: 10px;
+    margin-left: 400px;
+}
